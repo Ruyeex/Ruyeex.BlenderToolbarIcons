@@ -1,0 +1,10 @@
+{
+  "type": 1,
+  "name": "Blender Toolbar Icons",
+  "author": "Ruyeex",
+  "repository": "",
+  "packageId": "Ruyeex.BlenderToolbarIcons",
+  "version": "1.0.0",
+  "target-plugin-api-version": 40,
+  "dll": ""
+}
